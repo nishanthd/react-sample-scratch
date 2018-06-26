@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import App from './app'
-import './app.css'
+import App from './App'
+import './App.css'
 
 class Login extends Component {
 
